@@ -15,6 +15,7 @@
 		14E54FEE2AC10577009680D2 /* ContinuationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E54FED2AC10577009680D2 /* ContinuationView.swift */; };
 		14E54FF02AC1B717009680D2 /* ActorsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E54FEF2AC1B717009680D2 /* ActorsView.swift */; };
 		14E54FF22AC30547009680D2 /* GlobalActorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E54FF12AC30547009680D2 /* GlobalActorView.swift */; };
+		14E54FF42AC30FCD009680D2 /* DoTryCatchThrowsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E54FF32AC30FCD009680D2 /* DoTryCatchThrowsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		14E54FED2AC10577009680D2 /* ContinuationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContinuationView.swift; sourceTree = "<group>"; };
 		14E54FEF2AC1B717009680D2 /* ActorsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActorsView.swift; sourceTree = "<group>"; };
 		14E54FF12AC30547009680D2 /* GlobalActorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalActorView.swift; sourceTree = "<group>"; };
+		14E54FF32AC30FCD009680D2 /* DoTryCatchThrowsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoTryCatchThrowsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,12 +63,13 @@
 			children = (
 				14E54FDD2ABDC43D009680D2 /* SwiftConcurrencyApp.swift */,
 				14E54FDF2ABDC43D009680D2 /* ContentView.swift */,
+				14E54FF32AC30FCD009680D2 /* DoTryCatchThrowsView.swift */,
 				14E54FEB2ABDC6B0009680D2 /* TaskGroupView.swift */,
 				14E54FED2AC10577009680D2 /* ContinuationView.swift */,
-				14E54FE12ABDC43E009680D2 /* Assets.xcassets */,
-				14E54FE32ABDC43E009680D2 /* Preview Content */,
 				14E54FEF2AC1B717009680D2 /* ActorsView.swift */,
 				14E54FF12AC30547009680D2 /* GlobalActorView.swift */,
+				14E54FE12ABDC43E009680D2 /* Assets.xcassets */,
+				14E54FE32ABDC43E009680D2 /* Preview Content */,
 			);
 			path = SwiftConcurrency;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				14E54FEC2ABDC6B0009680D2 /* TaskGroupView.swift in Sources */,
 				14E54FF02AC1B717009680D2 /* ActorsView.swift in Sources */,
 				14E54FDE2ABDC43D009680D2 /* SwiftConcurrencyApp.swift in Sources */,
+				14E54FF42AC30FCD009680D2 /* DoTryCatchThrowsView.swift in Sources */,
 				14E54FEE2AC10577009680D2 /* ContinuationView.swift in Sources */,
 				14E54FF22AC30547009680D2 /* GlobalActorView.swift in Sources */,
 			);
