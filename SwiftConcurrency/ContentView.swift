@@ -16,6 +16,7 @@ struct ContentView: View {
                 NavigationLink("Actors", destination: ActorsView())
                 NavigationLink("Global Actor", destination: GlobalActorView())
                 NavigationLink("Sendable", destination: SendableView())
+                NavigationLink("AsyncPublisher", destination: AsyncPublisherView())
             }
             .navigationTitle("Swift Concurrency")
         }
