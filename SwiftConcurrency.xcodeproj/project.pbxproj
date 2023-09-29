@@ -18,6 +18,7 @@
 		14E54FF42AC30FCD009680D2 /* DoTryCatchThrowsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E54FF32AC30FCD009680D2 /* DoTryCatchThrowsView.swift */; };
 		14E54FF82AC45FD0009680D2 /* SendableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E54FF72AC45FD0009680D2 /* SendableView.swift */; };
 		14E54FFA2AC4680B009680D2 /* AsyncPublisherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E54FF92AC4680B009680D2 /* AsyncPublisherView.swift */; };
+		14E5500C2AC7065D009680D2 /* ReferencesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E5500B2AC7065D009680D2 /* ReferencesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		14E54FF32AC30FCD009680D2 /* DoTryCatchThrowsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoTryCatchThrowsView.swift; sourceTree = "<group>"; };
 		14E54FF72AC45FD0009680D2 /* SendableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendableView.swift; sourceTree = "<group>"; };
 		14E54FF92AC4680B009680D2 /* AsyncPublisherView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncPublisherView.swift; sourceTree = "<group>"; };
+		14E5500B2AC7065D009680D2 /* ReferencesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReferencesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,7 +51,6 @@
 		14E54FD12ABDC43D009680D2 = {
 			isa = PBXGroup;
 			children = (
-				14E54FF92AC4680B009680D2 /* AsyncPublisherView.swift */,
 				14E54FDC2ABDC43D009680D2 /* SwiftConcurrency */,
 				14E54FDB2ABDC43D009680D2 /* Products */,
 			);
@@ -74,6 +75,8 @@
 				14E54FEF2AC1B717009680D2 /* ActorsView.swift */,
 				14E54FF12AC30547009680D2 /* GlobalActorView.swift */,
 				14E54FF72AC45FD0009680D2 /* SendableView.swift */,
+				14E54FF92AC4680B009680D2 /* AsyncPublisherView.swift */,
+				14E5500B2AC7065D009680D2 /* ReferencesView.swift */,
 				14E54FE12ABDC43E009680D2 /* Assets.xcassets */,
 				14E54FE32ABDC43E009680D2 /* Preview Content */,
 			);
@@ -165,6 +168,7 @@
 				14E54FDE2ABDC43D009680D2 /* SwiftConcurrencyApp.swift in Sources */,
 				14E54FF42AC30FCD009680D2 /* DoTryCatchThrowsView.swift in Sources */,
 				14E54FEE2AC10577009680D2 /* ContinuationView.swift in Sources */,
+				14E5500C2AC7065D009680D2 /* ReferencesView.swift in Sources */,
 				14E54FF82AC45FD0009680D2 /* SendableView.swift in Sources */,
 				14E54FF22AC30547009680D2 /* GlobalActorView.swift in Sources */,
 			);
