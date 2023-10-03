@@ -10,7 +10,7 @@ struct ContentView: View {
         NavigationView {
             
             List {
-                NavigationLink("Do, Try, Catch, Throws", destination: DoTryCatchThrowsView())
+                NavigationLink("Do, Catch, Try, Throws", destination: DoCatchTryThrowsView())
                 NavigationLink("TaskGroup", destination: TaskGroupView())
                 NavigationLink("Continuation", destination: ContinuationView())
                 NavigationLink("Actors", destination: ActorsView())
